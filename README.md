@@ -1,5 +1,1 @@
 # Devops
-
-
-## Docker 
-containerizatin tool
